@@ -1,3 +1,5 @@
+![Management Levels and Information Flow](management_levels_information_flow.drawio)
+
 **PART 1: Explanation of each management level**
 
 A. Operational level
@@ -58,4 +60,5 @@ An IT Landscape Diagram shows the different types of IT assets and systems an or
 3. IT Architecture Diagram
 
 An IT Architecture Diagram shows the overall structure and design principles that guide an organization's technology systems. It outlines the relationships between business processes, applications, data, and technology components. It also defines the concepts, rules, norms, and standards that systems should follow to ensure security, compatibility, reliability, and consistency. This diagram helps an organization plan future technology improvements and ensure that its IT systems support its business goals.
+
 # slabs_database_home-activity1 management_levels_information_flow.drawio

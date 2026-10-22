@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" modified="2026-10-22T17:45:00.000Z" agent="ChatGPT" version="24.7.17" type="device">
+  <diagram id="management-pyramid" name="Management Levels">
+    <mxGraphModel dx="900" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="600" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="title" value="MANAGEMENT LEVELS &amp; INFORMATION FLOW" style="text;html=1;align=center;verticalAlign=middle;fontSize=20;fontStyle=1;fontColor=#1F2937;" vertex="1" parent="1">
+          <mxGeometry x="95" y="12" width="560" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="pyramid" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#334155;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="140" y="65" width="420" height="330" as="geometry"/>
+        </mxCell>
+        <mxCell id="divider1" value="" style="endArrow=none;html=1;strokeColor=#334155;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="245" y="175" as="sourcePoint"/>
+            <mxPoint x="455" y="175" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="divider2" value="" style="endArrow=none;html=1;strokeColor=#334155;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="285" as="sourcePoint"/>
+            <mxPoint x="510" y="285" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="strategic" value="STRATEGIC LEVEL&#xa;Top management&#xa;ESS — Executive Support System&#xa;Long-term plans, market trends, competitor data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#172554;" vertex="1" parent="1">
+          <mxGeometry x="220" y="85" width="260" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="tactical" value="TACTICAL LEVEL&#xa;Middle management&#xa;MIS / DSS — Reports and decision support&#xa;Budgets, weekly performance, resource planning" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#14532D;" vertex="1" parent="1">
+          <mxGeometry x="180" y="190" width="340" height="85" as="geometry"/>
+        </mxCell>
+        <mxCell id="operational" value="OPERATIONAL LEVEL&#xa;Supervisors and operational staff&#xa;TPS — Transaction Processing System&#xa;Daily sales, payments, stock movements" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#7C2D12;" vertex="1" parent="1">
+          <mxGeometry x="150" y="294" width="400" height="86" as="geometry"/>
+        </mxCell>
+        <mxCell id="up" value="Summarized information flows upward" style="text;html=1;align=center;verticalAlign=middle;fontSize=11;fontColor=#475569;" vertex="1" parent="1">
+          <mxGeometry x="570" y="150" width="225" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="down" value="Goals and instructions flow downward" style="text;html=1;align=center;verticalAlign=middle;fontSize=11;fontColor=#475569;" vertex="1" parent="1">
+          <mxGeometry x="570" y="225" width="225" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="upArrow" value="" style="endArrow=block;html=1;strokeColor=#64748B;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="675" y="145" as="sourcePoint"/>
+            <mxPoint x="675" y="112" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="downArrow" value="" style="endArrow=block;html=1;strokeColor=#64748B;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="265" as="sourcePoint"/>
+            <mxPoint x="720" y="300" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="footer" value="Information systems connect daily operations, management planning, and long-term strategy." style="text;html=1;align=center;verticalAlign=middle;fontSize=11;fontColor=#475569;" vertex="1" parent="1">
+          <mxGeometry x="90" y="425" width="620" height="30" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
